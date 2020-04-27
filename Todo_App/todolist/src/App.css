@@ -1,0 +1,35 @@
+body{
+  background:#666666;
+}
+.App
+{
+  background: #3f3160;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+
+#todoFrm input{
+  background: rgba(27,112,137,0.8);
+  border: none;
+  width: 200px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 20px;
+  outline: none;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 10px;
+}
+#todoFrm button
+{
+  background: rgba(22, 122, 64, 0.8);
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  color: #fff;
+  font-size: medium;
+  cursor: pointer;
+  outline: none;
+}
